@@ -1,0 +1,5 @@
+[package]
+edition = "2019"
+name = "armstrong_numbers"
+version = "1.0.0"
+author = ["Rishit Dagli rishit.dagli@gmail.com"]
